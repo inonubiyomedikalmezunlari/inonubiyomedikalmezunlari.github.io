@@ -1,2 +1,2 @@
-# jayjeet.me
-Portfolio Site built with HTML, CSS, JS
+
+ Site built with HTML, CSS, JS
